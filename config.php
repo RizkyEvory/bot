@@ -1,7 +1,7 @@
 <html>
 <head>
-<title>Symlink Get Config - Achon666ju5t</title>
-<meta property="og:title" content="$ Achon666ju5t $"/>      <meta property="og:description" content="Hacked By Extreme Crew"/>
+<title>M4DI~UciH4</title>
+<meta property="og:title" content="M4DI~UciH4"/>      <meta property="og:description" content="Hacked By M4DI~UciH4"/>
 <link href="https://fonts.googleapis.com/css?family=Jockey+One" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Courier" rel="stylesheet">
 </head>
